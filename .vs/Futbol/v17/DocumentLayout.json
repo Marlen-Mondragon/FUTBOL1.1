@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\POO\\practica 1\\Futbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|E:\\POO\\practica 1\\Futbol\\futbol\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\guardameta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\guardameta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|e:\\poo\\practica 1\\futbol\\futbol\\equipofutbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C249584-B742-4190-A249-7247A83E826E}|Futbol\\Futbol.csproj|solutionrelative:futbol\\equipofutbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Form1.cs",
+              "RelativeDocumentMoniker": "Futbol\\Form1.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Form1.cs",
+              "RelativeToolTip": "Futbol\\Form1.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAADwv2UAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T19:15:16.495Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Form1.cs",
+              "RelativeDocumentMoniker": "Futbol\\Form1.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Futbol\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T23:23:02.563Z",
+              "IsPinned": true,
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Datos.cs",
+              "RelativeDocumentMoniker": "Futbol\\Datos.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Datos.cs",
+              "RelativeToolTip": "Futbol\\Datos.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2031-03-10T20:59:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Futbolista.cs",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Futbolista.cs",
+              "RelativeDocumentMoniker": "Futbol\\Futbolista.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Futbolista.cs",
+              "RelativeToolTip": "Futbol\\Futbolista.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:11:36.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Guardameta.cs",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Guardameta.cs",
+              "RelativeDocumentMoniker": "Futbol\\Guardameta.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Guardameta.cs",
+              "RelativeToolTip": "Futbol\\Guardameta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:11:53.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Datos.cs",
+              "RelativeDocumentMoniker": "Futbol\\Datos.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Datos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Futbol\\Datos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:33:15.645Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\Persona.cs",
+              "RelativeDocumentMoniker": "Futbol\\Persona.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\Persona.cs",
+              "RelativeToolTip": "Futbol\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:11:17.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EquipoFutbol.cs",
+              "DocumentMoniker": "E:\\POO\\practica 1\\Futbol\\Futbol\\EquipoFutbol.cs",
+              "RelativeDocumentMoniker": "Futbol\\EquipoFutbol.cs",
+              "ToolTip": "E:\\POO\\practica 1\\Futbol\\Futbol\\EquipoFutbol.cs",
+              "RelativeToolTip": "Futbol\\EquipoFutbol.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T04:12:13.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
